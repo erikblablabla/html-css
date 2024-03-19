@@ -25,11 +25,11 @@
 // Стрелочные Функциии
 // ...
 
-// let a = 25
-// let b = 40
-// // let c = a + b
-// // alert(c)
-// alert(a + b)
+let a = 25
+let b = 40
+// let c = a + b
+// alert(c)
+alert(a + b)
 
 
 // ОПЕРАТОРЫ 
